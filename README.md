@@ -57,12 +57,6 @@ The game will start instantly 🙂
 
 ---
 
-## 📸 Screenshots
-
-(Add screenshots later)
-
----
-
 ## 🎯 Learning Outcomes
 
 From this project I learned:
